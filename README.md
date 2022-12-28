@@ -1,11 +1,23 @@
-## Hi 👋 I'm [Ashok Kumar](https://github.com/AshokPrjapati), passionate for learning with an endless supply of optimism and curiosity.
+## Hi 👋 I'm [Ashok Kumar](https://github.com/AshokPrjapati)
 
 - I'm a **Learner** | **Web Developer** | **Programmer**.
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Highly passionate about **building web applications**.
 - Interested in **exploring new technologies** with curious mind.
 
-<!-- - Checkout my [resume]() -->
+
+
+<br />
+<h3 align="center">Passionate for learning with an endless supply of optimism and curiosity</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙏🙏 नमस्ते! ; I am a Full-stack%20web%20developer 👨🏻‍💻;  Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+
+
 
 <br />
 
