@@ -4,8 +4,6 @@
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Highly passionate about **building web applications**.
 - Interested in **exploring new technologies** with curious mind.
-- Able to to write **clean and efficient code**.
-- Looking forward to taking up a challenging and responsible role within an organization as a **full-stack web developer**.
 
 <!-- - Checkout my [resume]() -->
 
@@ -56,18 +54,18 @@
 
 <img
   alt="Ashok Kumar's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=AshokPrjapati"
+  src="https://github-readme-stats.vercel.app/api?username=AshokPrjapati&theme=radical&langs_count=8"
   height="207px"
 />
 <img
   alt="Ashok Kumar's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPrjapati"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPrjapati&theme=radical&langs_count=8"
   height="207px"
 />
 
 <br />
 
-<br />
+
 
 ## :earth_asia: Connect with me...
 
