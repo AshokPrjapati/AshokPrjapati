@@ -74,7 +74,7 @@
 
 ### 📈 Stats
 
-<p align="center">
+<p>
   <img width="48%" alt="Ashok Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshokPrjapati&theme=radical&langs_count=8" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshokPrjapat&theme=radical&langs_count=8" />
 </p>
@@ -89,7 +89,6 @@
   height="207px"
 />
 
-<br />
 
 
 
