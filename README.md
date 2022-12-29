@@ -40,24 +40,31 @@
 <br>
 
 ## :hammer_and_wrench: Skills / Interests
-<br />
-<div>
-  
-  
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Chakra-UI](https://img.shields.io/badge/Chakra_UI-%23593d88.svg?&style=for-the-badge&logo=chakra-UI&logoColor=white&color=blue)&nbsp;
+### 🚀 Languages
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23B34A26.svg?&style=for-the-badge&logo=typescript&logoColor=blue&color=323330)
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-</div>
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra_UI-%23593d88.svg?&style=for-the-badge&logo=chakra-UI&logoColor=white&color=blue)
+
+
+### 🧑🏻‍💻 Tools & Platform
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 <br />
 
@@ -65,12 +72,17 @@
 
 <br />
 
+### 📈 Stats
 
-<img
-  alt="Ashok Kumar's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=AshokPrjapati&theme=radical&langs_count=8"
-  height="207px"
-/>
+<p align="center">
+  <img width="48%" alt="Ashok Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AshokPrjapati&theme=radical&langs_count=8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshokPrjapat&theme=radical&langs_count=8" />
+</p>
+
+
+
+
+### 🔝 Most used languages
 <img
   alt="Ashok Kumar's Top Languages"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPrjapati&theme=radical&langs_count=8"
