@@ -34,7 +34,7 @@
 <br />
 
 - 👨‍💻 Checkout my Resume,  [Resume](https://ashokprjapati.github.io/assets/Ashok-Kumar-Resume.pdf)
-- 💼 any freelance work? do reach, [email](mailto:ap271449@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:ashok.prjapati97@gmail.com) :)
 - 💬 ask me about web development, I would love to help ;)
 - 👨‍💻 Checkout my Portfolio [Portfolio](https://ashokprjapati.github.io/)
 
