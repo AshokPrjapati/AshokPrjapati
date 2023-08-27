@@ -7,7 +7,7 @@
 
 ## Hi 👋 I'm [Ashok Kumar](https://github.com/AshokPrjapati)
 
-- I'm a **Learner** | **Web Developer** | **Programmer**.
+- I'm a currently working as **Software Engineer** at Revlitix.
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Highly passionate about **building web applications**.
 - Interested in **exploring new technologies** with curious mind.
